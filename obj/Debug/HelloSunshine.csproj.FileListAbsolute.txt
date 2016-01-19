@@ -1,0 +1,6 @@
+c:\users\cryst\documents\visual studio 2015\Projects\HelloSunshine\HelloSunshine\bin\Debug\HelloSunshine.exe.config
+c:\users\cryst\documents\visual studio 2015\Projects\HelloSunshine\HelloSunshine\bin\Debug\HelloSunshine.exe
+c:\users\cryst\documents\visual studio 2015\Projects\HelloSunshine\HelloSunshine\bin\Debug\HelloSunshine.pdb
+c:\users\cryst\documents\visual studio 2015\Projects\HelloSunshine\HelloSunshine\obj\Debug\HelloSunshine.csprojResolveAssemblyReference.cache
+c:\users\cryst\documents\visual studio 2015\Projects\HelloSunshine\HelloSunshine\obj\Debug\HelloSunshine.exe
+c:\users\cryst\documents\visual studio 2015\Projects\HelloSunshine\HelloSunshine\obj\Debug\HelloSunshine.pdb
